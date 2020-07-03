@@ -1,7 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>HtmlParser.Xml</AssemblyName>
+    <PackageProjectUrl>https://github.com/kennybky/HtmlParser.Xml</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kennybky/HtmlParser.Xml</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
